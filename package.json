@@ -1,6 +1,12 @@
 {
-  "name": "https://ldkiller.github.io/lrm",
-  "version": "0.1.0",
+  "name": "lrm",
+  "version": "1.0.0",
+  "description": "Mon application",
+  "homepage": "https://ldkiller.github.io/lrm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ldkiller/lrm.git"
+  },
   "private": true,
   "dependencies": {
     "@hookform/resolvers": "^5.2.0",
